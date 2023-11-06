@@ -1,0 +1,6 @@
+
+    export const USERDATA = "USERDATA_SET"
+    export const FINALCARTVIEW = "FINALCARTVIEW"
+    export const ADDITEMTOCART = "ADDITEMTOCART"
+    export const REMOVEITEMTOCART = "REMOVEITEMTOCART"
+    
