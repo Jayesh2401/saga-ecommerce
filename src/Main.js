@@ -17,7 +17,7 @@ function Main() {
     <div className="container-fluid img_wel ">
       <div className="d-flex ">
         <div className="centyer">
-          <h1 className="">Welcome To MindInventory</h1>
+          <h1 className="">Welcome To Headset market</h1>
           <pre className="">
             Its always upon <b>us</b> what <b>we</b> choose{" "}
           </pre>
